@@ -43,4 +43,6 @@ public class RemoveDuplicateChars {
 		}
 		return str;
 	}
+	public static void test() {
+	}
 }
